@@ -8,11 +8,8 @@ images/ - the pictures used on the page.
 README.md - this file, which describes the repository.
 How to view it
 
-Download or clone this repository, then open index.html in a web browser.
-
 Progress
 [x] HTML skeleton
-[ ] Five films added
 [ ] CSS styling (later phase)
 
 Made by
